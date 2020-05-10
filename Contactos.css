@@ -1,11 +1,9 @@
 /*body index*/
-
 body{
 	background-color: #000000;
 }
 
 /* div menu items */
-
 #item-princi_menu{
 	color: white; 
 	width: 500px; 
@@ -17,7 +15,6 @@ body{
 }
 
 /*img logo */
-
 #icon{
 	width: 230px; 
 	height: 250px;
@@ -27,7 +24,6 @@ body{
 }
 
 /* title THE GUYS */ 
-
 #title-theguys{
 	font-family: 'Roboto', sans-serif; 
 	position: relative;
@@ -37,7 +33,6 @@ body{
 }
 
 /*comment text top title*/
-
 p[name$="ress"]{
 	font-family: 'Oswald', sans-serif;
 	position: relative;
@@ -48,7 +43,6 @@ p[name$="ress"]{
 }
 
 /*LISTA CONTENIDO ITEMS MENU*/
-
 ul[name^="list"]{
 	list-style: none;
 	position: relative; 
@@ -61,19 +55,16 @@ ul[name^="list"]{
 /*Enlace menu #01 #07*/
 
 /*Subrayado a enlace item #01 */
-
 .item-01{
 	text-decoration: none;
 }
 
 /*Color blanco texto item #01*/
-
 #list-1{
 	color: white;
 }
 
 /*Hover naranja item #01*/
-
 #list-1:hover{
 	color: #EE8A51; 
 
@@ -82,19 +73,16 @@ ul[name^="list"]{
 /*========================================*/
 
 /*Subrayado a enlace item #02*/
-
 .item-02{
 	text-decoration: none;
 }
 
 /*Color blanco texto item #02*/
-
 #list-2{
 	color: white;
 }
 
 /*Hover naranja item #02*/
-
 #list-2:hover{
 	color: #EE8A51;
 }
@@ -102,19 +90,16 @@ ul[name^="list"]{
 /*========================================*/
 
 /*Subrayado a enlace item #03*/
-
 .item-03{
 	text-decoration: none;
 }
 
 /*Color blanco texto item #03*/
-
 #list-3{
 	color: white;
 }
 
 /*Hover naranja item #03*/
-
 #list-3:hover{
 	color: #EE8A51;
 }
@@ -122,19 +107,16 @@ ul[name^="list"]{
 /*========================================*/
 
 /*Subrayado a enlace item #04*/
-
 .item-04{
 	text-decoration: none;
 }
 
 /*COlor blanco texto item #04*/
-
 #list-4{
 	color: white;
 }
 
 /*Hover naranja item #04*/
-
 #list-4:hover{
 	color: #EE8A51;
 }
@@ -142,19 +124,16 @@ ul[name^="list"]{
 /*========================================*/
 
 /*Subrayado a enlace item #05*/
-
 .item-05{
 	text-decoration: none;
 }
 
 /*Color blanco texto item #05*/
-
 #list-5{
 	color: white;
 }
 
 /*Hover naranja item #05*/
-
 #list-5:hover{
 	color: #EE8A51;
 }
@@ -162,19 +141,16 @@ ul[name^="list"]{
 /*========================================*/
 
 /*Subrayado a enlace item #06*/
-
 .item-06{
 	text-decoration: none;
 }
 
-/*COlor blanco texto item #06*/
 
 #list-6{
 	color: white;
 }
 
 /*Hover naranja  item #06*/
-
 #list-6:hover{
 	color: #EE8A51;
 }
@@ -182,19 +158,16 @@ ul[name^="list"]{
 /*========================================*/
 
 /*Subrayado a enlace item #07*/
-
 .item-07{
 	text-decoration: none;
 }
 
 /*COlor blanco texto item #07*/
-
 #list-7{
 	color: white;
 }
 
 /*Hover naranja  item #07*/
-
 #list-7:hover{
 	color: #EE8A51;
 }
@@ -205,7 +178,6 @@ ul[name^="list"]{
 /*END OF THE ITEMS AND MENU PRINCIPAL*/
 
 /*DIV SECOND CONTEXT INICIO*/
-
 #info-ini-tiem_2{
 	position: relative;
 	background-color: #000000;
@@ -217,7 +189,6 @@ ul[name^="list"]{
 }
 
 /*line 01 title*/
-
 hr[name*="ls1"]{
 	border: 1px solid rgba(238, 138, 81, 0.9);
 	width: 110px;
@@ -227,7 +198,6 @@ hr[name*="ls1"]{
 }
 
 /*title middle hrs*/
-
 #title-Estudio{
 	color: white;
 	font-family: sans-serif;
@@ -238,7 +208,6 @@ hr[name*="ls1"]{
 }
 
 /*line 02 title*/
-
 hr[name*="ls2"]{
 	border: 1px solid rgba(238, 138, 81, 0.9);
 	width: 110px;
@@ -248,7 +217,6 @@ hr[name*="ls2"]{
 }
 
 /*subtittle text*/
-
 #text-fer{
 	color: white;
 	font-size: 30px; 
@@ -259,7 +227,6 @@ hr[name*="ls2"]{
 }
 
 /*title seguir*/
-
 #text-siguenos{
 	color: white;
 	font-size: 40px; 
@@ -270,7 +237,6 @@ hr[name*="ls2"]{
 }
 
 /*lista redes*/
-
 #list-redes{
 	list-style:none;
 	color: white;
@@ -280,72 +246,21 @@ hr[name*="ls2"]{
 	font-family: 'Montserrat',sans-serif;
 }
 
-/*item list 01 facebook*/
-
-.facebook{
-	color: #FF0000;
+/*lista de redes text*/
+span:nth-child(odd){
+	color: rgba(238, 138, 81, 0.9);
 	font-weight: bold;
 }
 
-.Reds{
-	text-decoration: none;
+/*name account*/
+span.Reds{
 	color: white;
 }
 
-.Reds:hover{
-	color: #008AFF;
-}
-
-/*item list 02 instagram */
-
-.instagram{
-	color: #FF0000;
-	font-weight: bold;
-}
-
-.Reds{
+li.cont a{
 	text-decoration: none;
-	color: white;
 }
 
-.Reds:hover{
-	color: #008AFF;
-}
-
-/*item list 03 twitter*/
-
-.twitter{
-	color: #FF0000;
-	font-weight: bold;
-}
-
-.Reds{
-	text-decoration: none;
-	color: white;
-}
-
-.Reds:hover{
-	color: #008AFF; 
-}
-
-/*item list 04 youtube*/
-
-.youtube{
-	color: #FF0000;
-	font-weight: bold;
-}
-
-.Reds{
-	text-decoration: none;
-	color: white;
-}
-
-.Reds:hover{
-	color: #008AFF;
-}
-
-/*span a item 1-4*/
-
-.cls{
-	text-decoration: none;
+span.Reds:hover{
+	color: #008AFf;
 }
