@@ -68,7 +68,7 @@ _they can follow them and their social networks in which they can find all the i
 ![img](https://github.com/juan1305/0.2-GUYS-WEB/blob/master/Assets/Contacts.png)
 
 ## Author(s) ✒️
- - **Juan Giraldo** - _Initial Work, Documentation_ - [Trex_Codes](https://github.com/juan1305)
+ - **Juan Giraldo** - _Initial Work, Documentation_ - [Trex_Codes](https://github.com/Trex-Codes)
 
 ## Contributions 🖇️
  _Contributions are free for the developer who wants to support the project, although the project is already in its final stage and was a partly illustration for the creation of the band_ 💬
