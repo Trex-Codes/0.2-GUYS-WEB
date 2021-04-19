@@ -1,4 +1,4 @@
-# 0.2-GUYS-WEB
+# GUYS-WEB
 ## PROYECT(artistic music group)
 
 ## Starting 🚩
